@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  padding: 20px 0;
+}
+
+.header-all {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo img {
+  width: 50%;
+}
+
+nav a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  font-size: 16px;
+  margin: 0 20px;
+}
+
+.logo,
+.book {
+  width: 20%;
+}
+
+nav {
+  width: 60%;
+}
+
+nav span {
+  color: rgb(191, 191, 191);
+  vertical-align: text-bottom;
+}
+
+.book {
+  text-align: right;
+}
+
+.book button {
+  color: white;
+  background-color: orange;
+  border: 1px solid orange;
+  padding: 0 15px;
+}
