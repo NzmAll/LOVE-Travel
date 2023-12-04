@@ -49,3 +49,22 @@ nav span {
   border: 1px solid orange;
   padding: 0 15px;
 }
+
+#Slider{
+    padding: 19rem 0;
+    background-position: center;
+    background-size: cover;
+    background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/wp-content/uploads/sites/2/2018/04/parallax-2.jpg);
+}
+
+#Slider h1{
+    color: white;
+    font-size: 50px;
+    font-weight: 300;
+    text-align: center;
+}
+
+#Slider h1 span{
+    font-size: 75px;
+    font-weight: 400;
+}
